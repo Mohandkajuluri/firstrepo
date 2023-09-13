@@ -1,9 +1,7 @@
 Hi im developer1
 I'm from delhi
 i create content and develop websites
-{
-system.print(" mohana kajuluri ");
-}
+alpha again edited
 exit
 
 
